@@ -46,5 +46,5 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * dgadelha for decompiling and code fixes
 
 ## ⭐ Links
-* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/MiA2Camera.svg)](https://github.com/Magisk-Modules-Repo/MiA2Camera/blob/master/LICENSE)
-* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/MiA2Camera)
+* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/MIUI-10-Camera.svg)](https://github.com/Magisk-Modules-Repo/MiA2Camera/blob/master/LICENSE)
+* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/MIUI-10-Camera)
