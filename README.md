@@ -21,9 +21,18 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * Front portrait may not blur background
 * Beautify turned on makes captures black and white
 
+## ⭐ Compatibility
+* Works on Mi A1
+* Crashes on Mi 8
+* Crashes on Poco F1
+
 ## ⭐ Changelog
+### v9.1
+* Include bundled Google Lens from jasmine_V10.0.1.0.PDIMIFJ
+* Include MiuiScanner
+
 ### v9
-* Return to the repo
+* Return to the Repo
 
 ### v8.2
 * Update base apk from jasmine_V10.0.1.0.PDIMIFJ
@@ -46,5 +55,5 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * dgadelha for decompiling and code fixes
 
 ## ⭐ Links
-* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/MIUI-10-Camera.svg)](https://github.com/Magisk-Modules-Repo/MiA2Camera/blob/master/LICENSE)
-* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/MIUI-10-Camera)
+* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/MiA2Camera.svg)](https://github.com/Magisk-Modules-Repo/MiA2Camera/blob/master/LICENSE)
+* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/MiA2Camera)
