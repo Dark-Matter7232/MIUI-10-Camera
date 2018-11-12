@@ -22,6 +22,9 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * Beautify turned on makes captures black and white
 
 ## ⭐ Changelog
+### v9
+* Return to the repo
+
 ### v8.2
 * Update base apk from jasmine_V10.0.1.0.PDIMIFJ
 
