@@ -1,0 +1,9 @@
+id=MIUI-10-Camera
+name=Xiaomi MIUI 10 Camera app
+version=v9
+versionCode=900
+author=Joey Huab
+description=Installs Xiaomi's MIUI 10 Camera app. Most features available. Bugs may occur as this is only a port of a closed-source app.
+minMagisk=17000
+donate=https://paypal.me/joeyhuab
+support=https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432

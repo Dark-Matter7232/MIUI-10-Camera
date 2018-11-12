@@ -1,0 +1,31 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
+persist.audio.vr.enable=true
+
+#force HAL1 for below packages
+camera.hal1.packagelist=com.skype.raider,com.whatsapp,com.android.camera,com.facebook.katana
+
+# Additional buffers shared between Camera and Video
+vidc.enc.dcvs.extra-buff-count=2
+
+#
+# system property determining camera HAL to be used for a Video call
+#
+# 1 is camera1
+# 2 or anything else is camera2
+persist.radio.VT_CAM_INTERFACE=2
+
+#Expose aux camera for below packages
+camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.qualcomm.qti.qmmi,org.lineage.snap,com.google.android.GoogleCamera,com.google.android.GoogleCameraTele,com.google.android.GoogleCameraWide,com.bsgmod.camera
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.qualcomm.qti.qmmi,org.lineage.snap,com.google.android.GoogleCamera,com.google.android.GoogleCameraTele,com.google.android.GoogleCameraWide,com.bsgmod.camera
+#add by yaoshaorong for Expose aux camera for D2AO-892 for packagelist can't more than 91 byte
+vendor.camera.aux.packagelist2=com.android.systemui,com.huaqin.factory,com.mi.AutoTest
+
+#back and front camera use different face detect parameters
+persist.camera.imglib.usefdlite=1
+
+#enable aux and dual-cam
+persist.camera.expose.aux=1
