@@ -1,5 +1,4 @@
-<p align="center"><img src="https://www.lowyat.net/wp-content/uploads/2018/07/xiaomi-mi-a2-lite-hands-on-5.jpg">
-</p>
+<p align="center"><img src="https://www.lowyat.net/wp-content/uploads/2018/07/xiaomi-mi-a2-lite-hands-on-5.jpg"></p>
 
 <p align="center"><a href="https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a><br /><a href="https://t.me/PIX3LIFY"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg"></a></p>
 
@@ -8,7 +7,6 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 
 ## ⭐ Reminders
 * Install the zip again to remove it from module list.
-* This is no longer installable side by side with Xiaomi MIUI 9 camera module.
 * Some features may not work properly.
 
 ## ⭐ Features
@@ -23,6 +21,9 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 
 ## ⭐ Compatibility
 * Works on Mi A1
+* Works on Mi Mix 2
+* Works on Redmi 4A
+* Opens on Galaxy J5 but modes crashing
 * Crashes on Mi 8
 * Crashes on Poco F1
 
