@@ -6,6 +6,7 @@
 Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 
 ## ⭐ Reminders
+* Clear cache/dalvik to fix the FC issues.
 * Install the zip again to remove it from module list.
 * Some features may not work properly.
 
