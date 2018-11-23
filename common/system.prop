@@ -1,10 +1,6 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-persist.camera.HAL3.enabled=1
-persist.camera.eis.enable=1
-persist.audio.vr.enable=true
-
 #force HAL1 for below packages
 camera.hal1.packagelist=com.skype.raider,com.whatsapp,com.android.camera,com.facebook.katana
 
@@ -24,8 +20,20 @@ vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.qual
 #add by yaoshaorong for Expose aux camera for D2AO-892 for packagelist can't more than 91 byte
 vendor.camera.aux.packagelist2=com.android.systemui,com.huaqin.factory,com.mi.AutoTest
 
-#back and front camera use different face detect parameters
-persist.camera.imglib.usefdlite=1
+#disable UBWC for camera
+persist.vendor.camera.preview.ubwc=0
+
+persist.vendor.camera.stats.test=0
+persist.vendor.camera.depth.focus.cb=0
+
+persist.vendor.camera.isp.clock.optmz=0
+persist.vendor.camera.linkpreview=0
+persist.vendor.camera.isp.turbo=1
+#back and fornt camera use different face detect parameters
+persist.vendor.camera.imglib.usefdlite=1
 
 #enable aux and dual-cam
 persist.camera.expose.aux=1
+persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
+persist.audio.vr.enable=true

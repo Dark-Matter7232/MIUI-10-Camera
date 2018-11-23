@@ -1,7 +1,7 @@
 id=MIUI-10-Camera
 name=Xiaomi Mi A2 Camera port
-version=v9.1
-versionCode=910
+version=v9.2
+versionCode=920
 author=Joey Huab
 description=Installs Xiaomi's MIUI 10 Camera app. Most features available. Bugs may occur as this is only a port of a closed-source app.
 minMagisk=17000
