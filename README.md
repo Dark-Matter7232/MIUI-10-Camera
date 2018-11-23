@@ -17,6 +17,7 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * EIS support (for devices with EIS)
 
 ## ⭐ Bugs
+* May have green issues (for Mi A1 with 4.9 kernels)
 * Front portrait may not blur background
 * Beautify turned on makes captures black and white
 
@@ -29,9 +30,11 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * Crashes on Poco F1
 
 ## ⭐ Changelog
+### v9.2
+* Update values from Mi A2 Pie Stable build.prop
+
 ### v9.1
 * Include bundled Google Lens from jasmine_V10.0.1.0.PDIMIFJ
-* Include MiuiScanner
 
 ### v9
 * Return to the Repo
