@@ -32,6 +32,16 @@ persist.vendor.camera.isp.turbo=1
 #back and fornt camera use different face detect parameters
 persist.vendor.camera.imglib.usefdlite=1
 
+#properties for camera front flash lux
+persist.vendor.imx376_sunny.low.lux=290
+persist.vendor.imx376_sunny.light.lux=275
+
+persist.vendor.imx376_ofilm.low.lux=290
+persist.vendor.imx376_ofilm.light.lux=275
+
+#properties for bokeh switch master and slave lux
+persist.vendor.bokeh.switch.lux=290
+
 #enable aux and dual-cam
 persist.camera.expose.aux=1
 persist.camera.HAL3.enabled=1
