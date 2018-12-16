@@ -1,9 +1,7 @@
 <p align="center"><img src="https://www.lowyat.net/wp-content/uploads/2018/07/xiaomi-mi-a2-lite-hands-on-5.jpg"></p>
 
-<p align="center"><a href="https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a><br /><a href="https://t.me/PIX3LIFY"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg"></a></p>
-
 ## ⭐ Module description
-Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
+Magisk flashable of Tissot/MI A1 stock camera app.
 
 ## ⭐ Reminders
 * Clear cache/dalvik to fix the FC issues.
@@ -14,11 +12,11 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * MiuiCamera.apk from Mi A2 stock ROM
 * Most if not all features of Mi A2's stock Camera app
 * Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
-* EIS support (for devices with EIS)
+* EIS support
+* Themed Like Gcam
 
 ## ⭐ Bugs
 * May have green issues (for Mi A1 with 4.9 kernels)
-* Front portrait may not blur background
 * Beautify turned on makes captures black and white
 
 ## ⭐ Compatibility
@@ -30,35 +28,11 @@ Magisk flashable of Xiaomi MIUI 10 stock camera app for all devices.
 * Crashes on Poco F1
 
 ## ⭐ Changelog
-### v9.2
-* Update values from Mi A2 Pie Stable build.prop
-
-### v9.1
-* Include bundled Google Lens from jasmine_V10.0.1.0.PDIMIFJ
-
-### v9
-* Return to the Repo
-
-### v8.2
-* Update base apk from jasmine_V10.0.1.0.PDIMIFJ
-
-### v8.1
-* Add several devices to support
-
-### v8
-* Re-enable Jasmine default features
-* Theme app similar to GCam
-
-### v7.6
-* Use Unity template
-
 ### v1
 * Initial Release
 
 ## ⭐ Credits
 * kdrag0n for deodexing the app
 * dgadelha for decompiling and code fixes
+* JoeyHuab For Fixing bugs And Making It Almost Stable
 
-## ⭐ Links
-* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/MIUI-10-Camera.svg)](https://github.com/Magisk-Modules-Repo/MIUI-10-Camera/blob/master/LICENSE)
-* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/MIUI-10-Camera)

@@ -1,9 +1,7 @@
-id=MIUI-10-Camera
+id=Stock-Camera-Tissot-V2.0
 name=Xiaomi Mi A2 Camera port
-version=v9.3
-versionCode=930
-author=Joey Huab
-description=Installs Xiaomi's MIUI 10 Camera app. Most features available. Bugs may occur as this is only a port of a closed-source app.
+version=v0.1
+versionCode=001
+author=Anurag Rai
+description=Installs Xiaomi's MIUI 10 Camera app Ported From MI A2,Based on the works of JoeyHuab
 minMagisk=17000
-donate=https://paypal.me/joeyhuab
-support=https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432
